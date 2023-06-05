@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 
 <p align="center" style="margin-top: 3rem;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadimator&size_weight=0.5&count_weight=0.5&hide=html&langs_count=8&layout=compact&theme=dark">
-    <img style="margin-top: 3rem;" src="https://skillicons.dev/icons?perline=10&i=git,docker,c,ae,angular,aws,bash,bootstrap,cpp,css,dart,firebase,gcp,github,go,html,ai,js,latex,linux,md,matlab,ps,py,pytorch,r,tailwind,tensorflow,vscode,mongodb" />
+</p>
+
+<p align="center" style="margin-top: 3rem;">
+    <img src="https://skillicons.dev/icons?perline=10&i=git,docker,c,ae,angular,aws,bash,bootstrap,cpp,css,dart,firebase,gcp,github,go,html,ai,js,latex,linux,md,matlab,ps,py,pytorch,r,tailwind,tensorflow,vscode,mongodb" />
 </p>
